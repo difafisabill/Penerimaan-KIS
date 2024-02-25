@@ -1,2 +1,2 @@
 # Penerimaan-KIS
-penerimaan kartu indonesia Sehat menggunakan metode Naïve Bayes
+Website pemilihan penerimaan Kartu Indonesia Sehat menggunakan metode Naïve Bayes, Website ini dikembangankan denhan menggunakan PHP pada Framework laravel 10
